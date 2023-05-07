@@ -1,3 +1,2 @@
 # About me
-I like doing OS-Dev, and am currently working on a bootloader
-called **XHEESH** (name may change in the future)
+I like C and C++. Other than that I also like 3D APIs like OpenGL and Direct3D (I'm familiar with modern OpenGL, D3D9 and D3D11)
